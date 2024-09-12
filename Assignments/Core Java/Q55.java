@@ -10,9 +10,9 @@ public class Q55
    	 
         originalList.add("Red");
         originalList.add("Blue");
-        originalList.add("Green");
+        originalList.add("Black");
         originalList.add("Yellow");
-        originalList.add("Purple");
+        originalList.add("Pink");
 
         System.out.println("Original ArrayList: " + originalList);
 

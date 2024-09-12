@@ -7,13 +7,13 @@ public class Q57
 	public static void main(String[] args) 
     {
     	HashSet<String> set = new HashSet<>();
-        set.add("Dog");
-        set.add("Cat");
-        set.add("Bird");
+        set.add("Rajkot");
+        set.add("Surat");
+        set.add("Baroda");
 
         System.out.println("Original HashSet: " + set);
 
-        String newElement = "Fish";
+        String newElement = "Ahmedabad";
         set.add(newElement);
 
         System.out.println("Updated HashSet: " + set);

@@ -8,11 +8,11 @@ public class Q56
 	public static void main(String[] args) 
     {
     	ArrayList<String> list = new ArrayList<>();
-        list.add("Virat");
-        list.add("Dhoni");
-        list.add("Bumrah");
-        list.add("Kapil");
-        list.add("Hardik");
+        list.add("Iphone");
+        list.add("Ipad");
+        list.add("Iwatch");
+        list.add("Imac");
+        list.add("Airpods");
 
         System.out.println("Original ArrayList: " + list);
 

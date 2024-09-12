@@ -9,10 +9,10 @@ public class Q58
 	 {
 	        
 	        HashSet<String> set = new HashSet<>();
-	        set.add("Dog");
-	        set.add("Cat");
-	        set.add("Bird");
-	        set.add("Fish");
+	        set.add("Vishv");
+	        set.add("Harsh");
+	        set.add("Bhargav");
+	        set.add("Darshit");
 
 	        System.out.println("HashSet: " + set);
 

@@ -9,14 +9,14 @@ public class Q60
 	      
 	        HashMap<Integer, String> map = new HashMap<>();
 	        
-	        map.put(1, "Riya");
-	        map.put(2, "Alia");
-	        map.put(3, "Rohan");
+	        map.put(1, "Red");
+	        map.put(2, "Orange");
+	        map.put(3, "Green");
 
 	        System.out.println("Original HashMap: " + map);
 
 	        int key = 4;
-	        String value = "Siya";
+	        String value = "Pink";
 	        map.put(key, value);
 	        
 	        System.out.println("Updated HashMap: " + map);

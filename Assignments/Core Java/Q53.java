@@ -8,11 +8,11 @@ public class Q53
 	public static void main(String[] args) 
     {
     	ArrayList<String> list = new ArrayList<>();
-        list.add("Apple");
-        list.add("Banana");
-        list.add("Cherry");
-        list.add("Grapes");
-        list.add("Watermalon");
+        list.add("Red");
+        list.add("Green");
+        list.add("Pink");
+        list.add("Yellow");
+        list.add("Black");
         
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the element to search: ");

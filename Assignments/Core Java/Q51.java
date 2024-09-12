@@ -7,15 +7,15 @@ public class Q51
 	public static void main(String[] args) 
     {
     	 ArrayList<String> list = new ArrayList<>();
-         list.add("Apple");
-         list.add("Banana");
-         list.add("Cherry");
-         list.add("Grapes");
-         list.add("Watermalon");
+         list.add("Vishv");
+         list.add("Harsh");
+         list.add("Riya");
+         list.add("Prince");
+         list.add("KInjal");
          
          int index = 2;
          
-         String newElement = "Mango";
+         String newElement = "Mitesh";
          
          if (index >= 0 && index < list.size()) 
          {

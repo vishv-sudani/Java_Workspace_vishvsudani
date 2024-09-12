@@ -7,11 +7,11 @@ public class Q50
 	public static void main(String[] args) 
     {
     	 ArrayList<String> list = new ArrayList<>();
-         list.add("Apple");
-         list.add("Banana");
-         list.add("Cherry");
-         list.add("Grapes");
-         list.add("Watermalon");
+         list.add("Pizza");
+         list.add("Burger");
+         list.add("Hotdog");
+         list.add("Vadapav");
+         list.add("Sandwich");
          
          int index = 2;
          
